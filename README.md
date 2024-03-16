@@ -1,4 +1,5 @@
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Teixeira212&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ##
 
